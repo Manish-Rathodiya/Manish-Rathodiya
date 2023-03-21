@@ -17,7 +17,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/mrrathodiya" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg" alt="mrrathodiya" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/manish rathodiya" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="manish rathodiya" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/manish-rathodiya-4a7647193" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="manish rathodiya" height="30" width="40" /></a>
 <a href="https://fb.com/manish rathodiya" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/facebook/facebook-icon.svg" alt="manish rathodiya" height="30" width="40" /></a>
 <a href="https://instagram.com/manish_rathodiya" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="manish_rathodiya" height="30" width="40" /></a>
 </p>
