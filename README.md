@@ -1,4 +1,4 @@
-![MasterHead](https://www.digitaladlectio.com/wp-content/uploads/2020/04/New-PNC-Animated-Banners.gif)
+![MasterHead](https://img.freepik.com/free-vector/development-typographic-header-presenting-content-web-pages-website-layout-composition-color-development-idea-computer-technology-flat-vector-illustration_613284-2493.jpg?w=1060&t=st=1679405510~exp=1679406110~hmac=c003270ebd5a291eda137ff3ebd055db240fc92780f2f65bc3a7b6e2779df37c)
 <h1 align="center">Hi 👋, I'm Manish Rathodiya</h1>
 <h3 align="center">A passionate MERN Stack developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://devtechnosys.com/insights/wp-content/uploads/2022/09/PHP-Developers.gif">
